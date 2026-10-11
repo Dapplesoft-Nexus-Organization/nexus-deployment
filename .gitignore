@@ -1,0 +1,7 @@
+﻿# Secrets & Credentials
+.env*
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
